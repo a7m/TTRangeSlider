@@ -106,4 +106,14 @@ IB_DESIGNABLE
  */
 @property (nonatomic, assign) CGFloat lineHeight;
 
+/**
+ * Set slider lines corner radius
+ */
+@property (nonatomic, assign) CGFloat sliderLineCornerRadius;
+
+/**
+ * Set handle border width
+ */
+@property (nonatomic, assign) CGFloat handleBorderWidth;
+
 @end
